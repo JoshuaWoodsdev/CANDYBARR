@@ -1,0 +1,9 @@
+{
+  "name": "CANDYBARR",
+  "version": "1.0.0",
+  "description": "Website For CANDYBARR by Amaya Barr",
+  "main": "index.js",
+  "repository": "https://github.com/JoshuaWoodsdev/CANDYBARR",
+  "author": "Amaya Barr",
+  "license": "MIT"
+}
